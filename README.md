@@ -1,1 +1,1 @@
-https://github.com/SklvAri/first-project
+https://github.com/SklvAri/ono-tebe-nado-fd
